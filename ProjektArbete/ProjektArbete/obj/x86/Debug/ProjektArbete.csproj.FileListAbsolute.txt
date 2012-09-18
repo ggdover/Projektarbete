@@ -1,0 +1,12 @@
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\Content\guystill.xnb
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\Content\guymove1.xnb
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\Content\guymove2.xnb
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\ProjektArbete.exe
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\ProjektArbete.pdb
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\obj\x86\Debug\ProjektArbete.exe
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\obj\x86\Debug\ProjektArbete.pdb
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\Content\guyjump.xnb
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\Content\block1.xnb
+C:\Users\dover\Documents\Visual Studio 2010\Projects\ProjektArbete\ProjektArbete\ProjektArbete\bin\x86\Debug\Content\block2.xnb

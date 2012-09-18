@@ -1,0 +1,6 @@
+Content\guystill.xnb
+Content\guymove1.xnb
+Content\guymove2.xnb
+Content\guyjump.xnb
+Content\block1.xnb
+Content\block2.xnb
